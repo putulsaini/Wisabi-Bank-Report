@@ -1,5 +1,6 @@
 # Wisabi-Bank-Report
-https://drive.google.com/drive/folders/19nY40BDElR3b38RlA8tHnL0kWjOugucR?usp=sharing  (power bi dashboard)
+# https://drive.google.com/drive/folders/19nY40BDElR3b38RlA8tHnL0kWjOugucR?usp=sharing  
+<b>Power BI Dashboard URL</b> 🔺
 
 ![Screenshot 2024-06-20 211010](https://github.com/putulsaini/Wisabi-Bank-Report/assets/156244133/023d3b1a-da15-4fa3-ad8f-206ca5aad543)
 
